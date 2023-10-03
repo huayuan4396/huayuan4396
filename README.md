@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-225-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 53.5 kB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2023
+> 🏆 123 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
