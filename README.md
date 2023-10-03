@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140.4%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐶 My GitHub Data** 
 
 > 📦 53.4 kB Used in GitHub's Storage 
  > 
