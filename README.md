@@ -50,3 +50,6 @@ Linux                    27 mins             ███████████�
  Last Updated on 03/10/2023 12:12:47 UTC
 <!--END_SECTION:waka-->
 
+⌨️ Coding Activity
+
+<div align='center'><a href="https://wakatime.com"><img src="https://wakatime.com/share/@db8b0378-ee98-441b-8e12-39d3eb05c7ac/b2b36007-eea4-473d-8166-72343e401548.png" /></a></div>
