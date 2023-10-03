@@ -22,4 +22,5 @@ jobs:
           SHOW_COMMIT: False
           SHOW_UPDATED_DATE: False
           SHOW_PROJECTS: False
+          SHOW_TOTAL_CODE_TIME: False
           
