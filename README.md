@@ -49,6 +49,6 @@ Linux                    27 mins             ███████████�
 
 <!--END_SECTION:waka-->
 
-⌨️ Coding Activity
+⌨️ **Coding Activity**
 
 <div align='center'><figure><img src="https://wakatime.com/share/@db8b0378-ee98-441b-8e12-39d3eb05c7ac/810c2f5c-055f-4eb9-a69a-d71cbaed0a3e.svg"></embed></figure></div>
