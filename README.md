@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-225-blue)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 📦 53.4 kB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2023
+> 🏆 116 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
