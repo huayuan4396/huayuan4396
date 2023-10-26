@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 62.4 kB Used in GitHub's Storage 
+> 📦 63.4 kB Used in GitHub's Storage 
  > 
 > 🏆 179 Contributions in the Year 2023
  > 
