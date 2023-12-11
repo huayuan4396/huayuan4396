@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
