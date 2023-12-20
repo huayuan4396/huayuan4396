@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 📦 66.2 kB Used in GitHub's Storage 
  > 
-> 🏆 223 Contributions in the Year 2023
+> 🏆 222 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
