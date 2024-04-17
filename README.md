@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 69.3 kB Used in GitHub's Storage 
+> 📦 69.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
