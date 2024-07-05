@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20thousand%20lines%20of%20code-blue)
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 📦 77.1 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2024
+> 🏆 8 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
