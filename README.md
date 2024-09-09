@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > 📦 77.9 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
