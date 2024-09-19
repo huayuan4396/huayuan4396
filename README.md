@@ -28,5 +28,16 @@ Here are some ideas to get you started:
  > 
 > 🔑 10 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   3 hrs 55 mins       █████████████████████████   99.93 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+💻 Operating System: 
+Linux                    3 hrs 55 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
