@@ -22,23 +22,11 @@ Here are some ideas to get you started:
 
 > 📦 78.1 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   4 hrs 7 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    4 hrs 7 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
