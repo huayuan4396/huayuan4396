@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 505.0 kB Used in GitHub's Storage 
+> 📦 504.9 kB Used in GitHub's Storage 
  > 
 > 🏆 24 Contributions in the Year 2025
  > 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
