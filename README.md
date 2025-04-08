@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 📦 505.1 kB Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2025
+> 🏆 25 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
