@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 503.7 kB Used in GitHub's Storage 
+> 📦 506.3 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2025
+> 🏆 46 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
