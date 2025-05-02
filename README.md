@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      4 mins              ██████████████████████░░░   88.95 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
