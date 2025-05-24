@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 📦 506.7 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
+> 🏆 49 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,18 +30,5 @@ Here are some ideas to get you started:
  > 
 > 🔑 11 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      1 hr 24 mins        █████████████████░░░░░░░░   69.08 % 
-Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-TeX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-SSH Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-
-💻 Operating System: 
-Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
