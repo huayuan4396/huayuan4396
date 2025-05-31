@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 > 📦 506.7 kB Used in GitHub's Storage 
  > 
+> 🏆 49 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -32,10 +34,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               57 mins             █████████████████████████   100.00 % 
+C++                      23 mins             ██████████████████████░░░   88.29 % 
+TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+Mac                      26 mins             █████████████████████████   100.00 % 
 ```
 
 
