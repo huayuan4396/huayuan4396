@@ -30,16 +30,5 @@ Here are some ideas to get you started:
  > 
 > 🔑 11 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      23 mins             ██████████████████████░░░   88.29 % 
-TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-
-💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
