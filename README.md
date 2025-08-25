@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 513.0 kB Used in GitHub's Storage 
+> 📦 512.9 kB Used in GitHub's Storage 
  > 
 > 🏆 67 Contributions in the Year 2025
  > 
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
