@@ -22,13 +22,21 @@ Here are some ideas to get you started:
 
 > 📦 509.8 kB Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+SSH Config               0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
