@@ -30,5 +30,15 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
