@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > 📦 512.5 kB Used in GitHub's Storage 
  > 
-> 🏆 78 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -34,10 +32,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 
