@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
