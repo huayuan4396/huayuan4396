@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Typst                    9 hrs 16 mins       █████████████████████████   98.77 % 
-BibTeX                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Typst                    13 hrs 7 mins       █████████████████████████   98.83 % 
+BibTeX                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
