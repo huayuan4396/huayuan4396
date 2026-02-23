@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Typst                    13 hrs 7 mins       █████████████████████████   98.83 % 
-BibTeX                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Typst                    13 hrs 41 mins      █████████████████████████   98.87 % 
+BibTeX                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Mac                      13 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
