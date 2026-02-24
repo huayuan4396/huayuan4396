@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -30,16 +30,5 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Typst                    13 hrs 41 mins      █████████████████████████   98.87 % 
-BibTeX                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-
-💻 Operating System: 
-Mac                      13 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
