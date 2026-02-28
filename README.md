@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Typst                    13 hrs 49 mins      ███████████████████░░░░░░   74.58 % 
-Python                   3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-TeX                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-BibTeX                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Typst                    12 hrs 23 mins      ██████████████████░░░░░░░   72.63 % 
+Python                   3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+TeX                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+BibTeX                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Mac                      18 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
