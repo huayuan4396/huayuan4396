@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      12 hrs 16 mins      ██████████████████████░░░   86.64 % 
-BibTeX                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-SSH Config               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Typst                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TeX                      11 hrs 49 mins      ██████████████████████░░░   89.91 % 
+BibTeX                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+SSH Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      14 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
