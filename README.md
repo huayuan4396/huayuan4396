@@ -30,18 +30,5 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TeX                      7 hrs 21 mins       ████████████████░░░░░░░░░   62.10 % 
-Python                   4 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.69 % 
-BibTeX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Mac                      11 hrs 51 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
