@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Typst                    12 mins             █████████████████████████   100.00 % 
+Typst                    20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 
