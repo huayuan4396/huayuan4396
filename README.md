@@ -30,15 +30,5 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Typst                    1 hr 17 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
