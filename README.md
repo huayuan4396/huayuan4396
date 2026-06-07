@@ -34,10 +34,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      2 hrs 55 mins       ████████████████████████░   96.20 % 
+SSH Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
