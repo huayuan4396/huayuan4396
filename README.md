@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      6 hrs 34 mins       █████████████████████░░░░   84.82 % 
-TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-SSH Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TeX                      6 hrs 47 mins       █████████████████████░░░░   85.24 % 
+TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+SSH Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Mac                      7 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
