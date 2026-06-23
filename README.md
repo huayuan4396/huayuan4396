@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr 2 mins         █████████████████████████   100.00 % 
+TeX                      34 mins             █████████████░░░░░░░░░░░░   52.82 % 
+TypeScript               30 mins             ███████████░░░░░░░░░░░░░░   45.72 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 
