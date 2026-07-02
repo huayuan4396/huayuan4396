@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 18 mins       █████████████████████░░░░   82.73 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+TeX                      2 hrs 18 mins       █████████████████████░░░░   82.78 % 
+Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
