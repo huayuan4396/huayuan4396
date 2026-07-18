@@ -30,5 +30,16 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+SSH Config               3 mins              ████████████████████████░   96.11 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+
+💻 Operating System: 
+Mac                      3 mins              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
