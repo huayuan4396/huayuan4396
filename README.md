@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-SSH Config               3 mins              ████████████████████████░   96.11 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
