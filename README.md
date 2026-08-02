@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
