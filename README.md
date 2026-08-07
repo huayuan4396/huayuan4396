@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%206%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -36,19 +34,19 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      53 mins             ████████████████████░░░░░   81.09 % 
-Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+TeX                      6 hrs               ████████████████████████░   96.67 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (21.97%)
+⏱ AI Coding Time: 14 mins (3.87%)
 
-✍️ 0 lines written by AI, 12 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 62 lines written by hand (0.0% AI-written)
 
 🔤 110,486 Input Tokens, 752 Output Tokens
 
