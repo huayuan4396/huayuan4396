@@ -36,33 +36,33 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      13 hrs 30 mins      ████████████████████████░   95.34 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-BibTeX                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TeX                      13 hrs 34 mins      ████████████████████████░   96.77 % 
+BibTeX                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (7.0%)
+⏱ AI Coding Time: 45 mins (5.35%)
 
-✍️ 0 lines written by AI, 1,007 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,025 lines written by hand (0.0% AI-written)
 
-🔤 1,967,994 Input Tokens, 2,762 Output Tokens
+🔤 1,857,508 Input Tokens, 2,010 Output Tokens
 
-💵 $9.92 Estimated AI Cost This Week
+💵 $9.35 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 18 AI Prompts
+🧠 3 AI Sessions, 16 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 3 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 2 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
