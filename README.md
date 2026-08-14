@@ -32,5 +32,39 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TeX                      13 hrs 41 mins      ███████████████████████░░   93.41 % 
+BibTeX                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+
+💻 Operating System: 
+Mac                      14 hrs 39 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 59 mins (6.81%)
+
+✍️ 0 lines written by AI, 898 lines written by hand (0.0% AI-written)
+
+🔤 1,226,358 Input Tokens, 61,125 Output Tokens
+
+💵 $9.04 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 8 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 46 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
