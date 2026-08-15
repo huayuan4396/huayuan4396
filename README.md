@@ -36,20 +36,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      13 hrs 41 mins      ███████████████████████░░   93.41 % 
-BibTeX                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+TeX                      13 hrs 27 mins      ███████████████████████░░   93.31 % 
+BibTeX                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Mac                      14 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (6.81%)
+⏱ AI Coding Time: 59 mins (6.92%)
 
-✍️ 0 lines written by AI, 898 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 878 lines written by hand (0.0% AI-written)
 
 🔤 1,226,358 Input Tokens, 61,125 Output Tokens
 
