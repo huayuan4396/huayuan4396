@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -36,32 +36,32 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      15 hrs 13 mins      ███████████████████████░░   93.50 % 
-BibTeX                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TeX                      11 hrs 16 mins      ███████████████████████░░   90.86 % 
+BibTeX                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Mac                      16 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (6.88%)
+⏱ AI Coding Time: 1 hr 11 mins (9.55%)
 
-✍️ 0 lines written by AI, 1,175 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 806 lines written by hand (0.0% AI-written)
 
-🔤 1,842,286 Input Tokens, 58,514 Output Tokens
+🔤 1,615,366 Input Tokens, 7,984 Output Tokens
 
-💵 $11.72 Estimated AI Cost This Week
+💵 $8.67 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 10 AI Prompts
+🧠 5 AI Sessions, 11 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 42 characters per prompt
+📝 Concise Prompter — average 59 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
