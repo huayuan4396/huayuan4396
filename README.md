@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -32,39 +32,5 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TeX                      11 hrs 7 mins       ██████████████████████░░░   87.70 % 
-BibTeX                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-
-💻 Operating System: 
-Mac                      12 hrs 41 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 42 mins (5.6%)
-
-✍️ 0 lines written by AI, 890 lines written by hand (0.0% AI-written)
-
-🔤 1,148,710 Input Tokens, 4,144 Output Tokens
-
-💵 $3.15 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 10 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 57 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
