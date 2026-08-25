@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -36,33 +36,33 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      10 hrs 45 mins      ██████████████████████░░░   86.41 % 
-BibTeX                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+TeX                      8 hrs 31 mins       █████████████████████░░░░   83.48 % 
+BibTeX                   1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-Mac                      12 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (8.1%)
+⏱ AI Coding Time: 1 hr 42 mins (16.72%)
 
-✍️ 0 lines written by AI, 833 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 574 lines written by hand (0.0% AI-written)
 
-🔤 2,430,488 Input Tokens, 8,807 Output Tokens
+🔤 2,088,177 Input Tokens, 70,357 Output Tokens
 
-💵 $12.71 Estimated AI Cost This Week
+💵 $13.30 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 6 AI Sessions, 17 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 54 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 298 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
