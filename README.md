@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -36,33 +36,34 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TeX                      8 hrs 2 mins        ████████████████████████░   96.11 % 
-BibTeX                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+TeX                      7 hrs 23 mins       ████████████████████████░   95.63 % 
+BibTeX                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+BST                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      8 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (21.65%)
+⏱ AI Coding Time: 1 hr 4 mins (13.97%)
 
-✍️ 0 lines written by AI, 263 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 289 lines written by hand (0.0% AI-written)
 
-🔤 645,568 Input Tokens, 68,094 Output Tokens
+🔤 354,863 Input Tokens, 11,806 Output Tokens
 
-💵 $7.57 Estimated AI Cost This Week
+💵 $4.05 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 14 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 347 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 42 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
