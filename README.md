@@ -36,20 +36,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.66 % 
-TeX                      1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Makefile                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-F#                       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Python                   4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.81 % 
+TeX                      1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Makefile                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+F#                       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 💻 Operating System: 
-Mac                      9 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 13 mins (74.26%)
+⏱ AI Coding Time: 7 hrs 13 mins (76.17%)
 
 ✍️ 1,306 lines written by AI, 370 lines written by hand (77.92% AI-written)
 
@@ -65,7 +65,7 @@ GPT                      1,348 lines         ███████████�
 🤖 AI-Driven — 77.92% of written lines came from AI
 📝 Concise Prompter — average 401 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 37.21% of changed lines were hand-edited
+🚀 High AI Trust — 37.19% of changed lines were hand-edited
 ```
 
 
