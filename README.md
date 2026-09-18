@@ -36,36 +36,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Makefile                 58 mins             █████████████░░░░░░░░░░░░   53.22 % 
-F#                       39 mins             █████████░░░░░░░░░░░░░░░░   36.12 % 
-C++                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-GLSL                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Wavefront Object         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 47 mins (97.7%)
-
-✍️ 81 lines written by AI, 24 lines written by hand (77.14% AI-written)
-
-🔤 1,953,759 Input Tokens, 151,269 Output Tokens
-
-💵 $21.23 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 11 AI Prompts
-
-GPT                      127 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 77.14% of written lines came from AI
-📄 Detailed Prompter — average 515 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 23.6% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
