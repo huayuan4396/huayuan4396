@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -36,16 +36,34 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 13 mins        ███████████████░░░░░░░░░░   60.37 % 
+Other                    35 mins             ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 52 mins (92.23%)
+
+✍️ 234 lines written by AI, 24 lines written by hand (90.7% AI-written)
+
+🔤 2,307,905 Input Tokens, 90,181 Output Tokens
+
+💵 $16.53 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 18 AI Prompts
+
+GPT                      234 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.7% of written lines came from AI
+📝 Concise Prompter — average 148 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 18.75% of changed lines were hand-edited
 ```
 
 
