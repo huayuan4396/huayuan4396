@@ -36,21 +36,21 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 8 mins         ███████████░░░░░░░░░░░░░░   43.13 % 
-YAML                     59 mins             █████████░░░░░░░░░░░░░░░░   37.44 % 
-Other                    28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Python                   1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   40.74 % 
+YAML                     59 mins             ██████████░░░░░░░░░░░░░░░   39.00 % 
+Other                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (29.76%)
+⏱ AI Coding Time: 47 mins (31.04%)
 
-✍️ 19 lines written by AI, 245 lines written by hand (7.2% AI-written)
+✍️ 19 lines written by AI, 69 lines written by hand (21.59% AI-written)
 
 🔤 17,924,432 Input Tokens, 591,907 Output Tokens
 
@@ -61,10 +61,10 @@ Mac                      2 hrs 39 mins       ███████████�
 GPT                      37 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.2% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 21.59% of written lines came from AI
 📝 Concise Prompter — average 417 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 89.72% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 79.89% of changed lines were hand-edited
 ```
 
 
