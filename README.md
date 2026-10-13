@@ -36,35 +36,36 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.90 % 
-YAML                     55 mins             ████████░░░░░░░░░░░░░░░░░   33.87 % 
-Other                    44 mins             ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+YAML                     1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   37.00 % 
+Other                    1 hr                ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Python                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      2 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 2 mins (38.26%)
+⏱ AI Coding Time: 2 hrs 14 mins (58.32%)
 
-✍️ 19 lines written by AI, 68 lines written by hand (21.84% AI-written)
+✍️ 370 lines written by AI, 75 lines written by hand (83.15% AI-written)
 
-🔤 17,997,346 Input Tokens, 594,598 Output Tokens
+🔤 2,534,197 Input Tokens, 40,313 Output Tokens
 
-💵 $116.26 Estimated AI Cost This Week
+💵 $6.56 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 6 AI Sessions, 28 AI Prompts
 
-GPT                      37 lines            █████████████████████████   100.00 % 
+GPT                      370 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.84% of written lines came from AI
-📝 Concise Prompter — average 379 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 79.67% of changed lines were hand-edited
+🤖 AI-Driven — 83.15% of written lines came from AI
+📝 Concise Prompter — average 263 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 27.73% of changed lines were hand-edited
 ```
 
 
