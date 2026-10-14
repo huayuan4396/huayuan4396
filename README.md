@@ -36,36 +36,36 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   37.00 % 
-Other                    1 hr                ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-Python                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+YAML                     1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   41.08 % 
+Python                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (58.32%)
+⏱ AI Coding Time: 2 hrs (54.08%)
 
-✍️ 370 lines written by AI, 75 lines written by hand (83.15% AI-written)
+✍️ 370 lines written by AI, 82 lines written by hand (81.86% AI-written)
 
-🔤 2,534,197 Input Tokens, 40,313 Output Tokens
+🔤 2,344,305 Input Tokens, 39,016 Output Tokens
 
-💵 $6.56 Estimated AI Cost This Week
+💵 $5.72 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 28 AI Prompts
+🧠 5 AI Sessions, 25 AI Prompts
 
 GPT                      370 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.15% of written lines came from AI
-📝 Concise Prompter — average 263 characters per prompt
+🤖 AI-Driven — 81.86% of written lines came from AI
+📝 Concise Prompter — average 264 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 27.73% of changed lines were hand-edited
+🚀 High AI Trust — 28.71% of changed lines were hand-edited
 ```
 
 
