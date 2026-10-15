@@ -36,36 +36,36 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   41.08 % 
-Python                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+YAML                     1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   41.98 % 
+Python                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (54.08%)
+⏱ AI Coding Time: 2 hrs (53.25%)
 
-✍️ 370 lines written by AI, 82 lines written by hand (81.86% AI-written)
+✍️ 370 lines written by AI, 90 lines written by hand (80.43% AI-written)
 
-🔤 2,344,305 Input Tokens, 39,016 Output Tokens
+🔤 2,279,318 Input Tokens, 38,941 Output Tokens
 
-💵 $5.72 Estimated AI Cost This Week
+💵 $5.46 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 25 AI Prompts
+🧠 4 AI Sessions, 24 AI Prompts
 
 GPT                      370 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.86% of written lines came from AI
-📝 Concise Prompter — average 264 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 28.71% of changed lines were hand-edited
+🤖 AI-Driven — 80.43% of written lines came from AI
+📝 Concise Prompter — average 274 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 29.79% of changed lines were hand-edited
 ```
 
 
