@@ -36,36 +36,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   57 mins             ██████████░░░░░░░░░░░░░░░   39.57 % 
-YAML                     44 mins             ████████░░░░░░░░░░░░░░░░░   30.70 % 
-Markdown                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+YAML                     9 mins              █████████████████████████   99.99 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 30 mins (61.9%)
-
-✍️ 370 lines written by AI, 71 lines written by hand (83.9% AI-written)
-
-🔤 1,694,187 Input Tokens, 29,936 Output Tokens
-
-💵 $4.16 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 20 AI Prompts
-
-GPT                      370 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 83.9% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 17.23% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
