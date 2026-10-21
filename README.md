@@ -36,11 +36,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-YAML                     9 mins              █████████████████████████   99.99 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+YAML                     3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
